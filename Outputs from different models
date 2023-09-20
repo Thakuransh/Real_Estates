@@ -1,0 +1,16 @@
+OUTPUTS:
+
+1. Linear Regression
+Mean 5.028441574481723
+Scores: 1.0539093729162594
+
+
+2. Decision Tree
+Mean 4.122509924902488
+Scores: 0.7761904889767975
+
+
+
+3. Random Forest.
+Mean 3.3356586158544674
+Scores: 0.7177813828721141
